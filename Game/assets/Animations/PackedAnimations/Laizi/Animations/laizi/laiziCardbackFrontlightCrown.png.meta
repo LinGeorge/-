@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b9718668-7b94-498e-aae9-51f1430b96e1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "laiziCardbackFrontlightCrown": {
+      "ver": "1.0.3",
+      "uuid": "78e927ae-1ab1-4fe8-93a4-b3f4ea66e50f",
+      "rawTextureUuid": "b9718668-7b94-498e-aae9-51f1430b96e1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1777,
+      "height": 1442,
+      "rawWidth": 1781,
+      "rawHeight": 1446,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

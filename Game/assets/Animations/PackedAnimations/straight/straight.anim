@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "straight",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Node": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": null
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "66f664e1-1cc2-402e-bc78-7390881c1220"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "b90ada70-b0f5-4b5c-bb22-d489ed0a5cc2"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "a08bbdc5-7496-4fe9-b7f7-0d4d6d7d08df"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "e4028dea-5eac-4116-8016-18c20a2d1db3"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "716d16ad-8b0c-461b-916f-9cc2118142fe"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "5155b34d-9b8c-44b3-9333-6aa2b08ce2cf"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "092791cc-c7b7-4184-be17-f1ae93586606"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "cf12d354-f070-4e84-877b-a4757b9d5210"
+                }
+              },
+              {
+                "frame": 0.75,
+                "value": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

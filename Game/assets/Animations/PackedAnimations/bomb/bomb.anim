@@ -1,0 +1,249 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bomb",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.5,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "word": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": null
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "c610b7d7-07be-4f0b-9dec-7f9893786608"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "flame": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": null
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "66be236a-af38-4bd4-9daa-65583d9b9f23"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "6678026d-d892-47fc-8923-9a1c1204f797"
+                }
+              },
+              {
+                "frame": 0.75,
+                "value": {
+                  "__uuid__": "f66eb897-c55d-4dfb-ad2a-af527041af28"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "04c9db4e-e5b2-42dd-8915-e5e37d872d01"
+                }
+              },
+              {
+                "frame": 0.9166666666666666,
+                "value": {
+                  "__uuid__": "584fd321-84ee-4b38-bbd8-0f337a38f4a5"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "c3044f3d-8d23-4566-9a33-9efd8d2f232b"
+                }
+              },
+              {
+                "frame": 1.0833333333333333,
+                "value": {
+                  "__uuid__": "4caae7f8-017f-4282-ac92-8ec3a47762a5"
+                }
+              },
+              {
+                "frame": 1.25,
+                "value": null
+              }
+            ]
+          }
+        }
+      },
+      "bomb": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -658,
+                137
+              ]
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": [
+                -568,
+                219
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -472,
+                281
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -352,
+                313
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -217,
+                315
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                -94,
+                243
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -32,
+                140
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -359
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "6bb13757-7b8b-425e-8ef2-d08c517188c5"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}
